@@ -2,4 +2,4 @@
 this is my first repository
 <br>
 <hr>
-Author - Shorya Gupta
+Author - Shorya Gupta (me)
